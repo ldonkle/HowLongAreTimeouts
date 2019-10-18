@@ -22,7 +22,7 @@
 
 							<!-- Logo -->
 								<a href="index.html" class="logo">
-									<span class="symbol"><img src="images/logo.svg" alt="" /></span><span class="title">HowLongareTimeouts.com</span>
+									<span class="symbol"><img src="images/logo.svg" alt="" /></span>
 								</a>
 
 							<!-- Nav -->
@@ -42,13 +42,11 @@
 							<li><a href="index.html">Home</a></li>
 							<li><a href="NFL.html">NFL</a></li>
 							<li><a href="NBA.html">NBA</a></li>
-							<li><a href="MLB.html">MLB</a></li>
+							<li><a href="NHL.html">NHL</a></li>
 							<li><a href="NCAA Football.html">NCAA Football</a></li>
                             <li><a href="NCAA Basketball.html">NCAA Basketball</a></li>
-                            <li><a href="NHL.html">NHL</a></li>
                             <li><a href="Soccer.html">Soccer</a></li>
-                            <li><a href="Tennis.html">Tennis</a></li>
-                            <li><a href="Volleyball.html">Volleyball</a></li>
+                        
 						</ul>
 					</nav>
 
@@ -67,7 +65,7 @@
 									<a href="generic.html">
 										<h2>NFL</h2>
 										<div class="content">
-                                        <br>
+                                        	<br>
 											<p>Timeouts are 2 minutes.  
                                             <br>30 seconds if no commmercial break.</p>
                                             <p>Halftime is 12 minutes.</p>
@@ -81,7 +79,10 @@
 									<a href="generic.html">
 										<h2>NBA</h2>
 										<div class="content">
-											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+                                       		<br>
+											<p>Timeouts are 75 seconds.</p>
+                                            <br>
+                                            <p>Halftime is 15 minutes.</p>
 										</div>
 									</a>
 								</article>
@@ -90,9 +91,12 @@
 										<img src="images/pic03.jpg" alt="" />
 									</span>
 									<a href="generic.html">
-										<h2>MLB</h2>
+										<h2>NHL</h2>
 										<div class="content">
-											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+                                        <br>
+                                      		<p>Timeouts are 2 minutes.<br>
+                                            30 seconds if no commerical break.</p>
+                                            <p>Time between periods is 17 minutes.</p> 
 										</div>
 									</a>
 								</article>
@@ -103,7 +107,10 @@
 									<a href="generic.html">
 										<h2>NCAA Football</h2>
 										<div class="content">
-											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+                                        	<br>
+											<p>Timeouts are 90 seonds.</p>
+                                            <br>
+                                            <p>Halftime is 20 minutes.</p>
 										</div>
 									</a>
 								</article>
@@ -114,7 +121,10 @@
 									<a href="generic.html">
 										<h2>NCAA Basketball</h2>
 										<div class="content">
-											<p>Each Team has: (1) 60-second timeout, (3) 30-second timeouts.</p>
+											<br>
+											<p>Timeouts are 60 seonds or 75 seconds, depending on the media agreement.</p>
+                                            <br>
+                                            <p>Halftime is 15 minutes.</p>
 										</div>
 									</a>
 								</article>
@@ -123,45 +133,15 @@
 										<img src="images/pic06.jpg" alt="" />
 									</span>
 									<a href="generic.html">
-										<h2>NHL</h2>
-										<div class="content">
-											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
-										</div>
-									</a>
-								</article>
-								<article class="style2">
-									<span class="image">
-										<img src="images/pic07.jpg" alt="" />
-									</span>
-									<a href="generic.html">
 										<h2>Soccer</h2>
 										<div class="content">
-											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+                                        <br>
+											<p>There are no timeouts in soccer.</p>
+                                            <p>Halftime is 15 minutes.</p> 
 										</div>
 									</a>
 								</article>
-								<article class="style3">
-									<span class="image">
-										<img src="images/pic08.jpg" alt="" />
-									</span>
-									<a href="generic.html">
-										<h2>Tennis</h2>
-										<div class="content">
-											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
-										</div>
-									</a>
-								</article>
-								<article class="style1">
-									<span class="image">
-										<img src="images/pic09.jpg" alt="" />
-									</span>
-									<a href="generic.html">
-										<h2>Volleyball</h2>
-										<div class="content">
-											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
-										</div>
-									</a>
-								</article>
+								
 								
 							</section>
 						</div>
